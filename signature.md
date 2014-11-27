@@ -1,4 +1,5 @@
 - Haneen Mohammed
 - Yumna Aziz Ansari
 - Esraa Alzwawi iam a CS student 
-- Sondos Azzouz 
+- Sondos Azzouz - CS student
+
